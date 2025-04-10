@@ -10,7 +10,7 @@ Sou um entusiasta da programação com experiência em **Java (Android Studio e 
 
 📌 **Atualmente estudando:**
 
-- Desenvolvimento Web com **JavaScript, HTML e CSS**
+- Desenvolvimento Web com **Java, JavaScript, HTML e CSS**
 - Desenvolvimento de aplicativos e sistemas com **Java**
 
 📌 **Interesses:**
